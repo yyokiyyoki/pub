@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>ff</title>
+    <link href="https://yyokiyyoki.github.io/yyokiyyoki/pub/feed.xml" rel="self" />
+    <link href="https://yyokiyyoki.github.io/yyokiyyoki/pub" />
+    <updated>2022-10-02T19:12:14-04:00</updated>
+    <author>
+        <name>ff</name>
+    </author>
+    <id>https://yyokiyyoki.github.io/yyokiyyoki/pub</id>
+
+    <entry>
+        <title>rrrrttt</title>
+        <author>
+            <name>ff</name>
+        </author>
+        <link href="https://yyokiyyoki.github.io/yyokiyyoki/pub/rrrrttt.html"/>
+        <id>https://yyokiyyoki.github.io/yyokiyyoki/pub/rrrrttt.html</id>
+
+        <updated>2022-10-02T19:12:14-04:00</updated>
+            <summary>
+                <![CDATA[
+                    ffffggg;;s s ddddddddddddddd
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<p>ffffggg;;s</p>
+<p>s</p>
+<p>ddddddddddddddd</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

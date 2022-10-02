@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ff",
+    "description": "",
+    "home_page_url": "https://yyokiyyoki.github.io/yyokiyyoki/pub",
+    "feed_url": "https://yyokiyyoki.github.io/yyokiyyoki/pub/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "ff"
+    },
+    "items": [
+        {
+            "id": "https://yyokiyyoki.github.io/yyokiyyoki/pub/rrrrttt.html",
+            "url": "https://yyokiyyoki.github.io/yyokiyyoki/pub/rrrrttt.html",
+            "title": "rrrrttt",
+            "summary": "ffffggg;;s s ddddddddddddddd",
+            "content_html": "<p> </p>\n<p>ffffggg;;s</p>\n<p>s</p>\n<p>ddddddddddddddd</p>",
+            "author": {
+                "name": "ff"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-02T19:12:14-04:00",
+            "date_modified": "2022-10-02T19:12:14-04:00"
+        }
+    ]
+}
