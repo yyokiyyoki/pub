@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "ff",
     "description": "",
-    "home_page_url": "https://yyokiyyoki.github.io/yyokiyyoki/pub",
-    "feed_url": "https://yyokiyyoki.github.io/yyokiyyoki/pub/feed.json",
+    "home_page_url": "https://yyokiyyoki.github.io/yyokiyyoki.github.io",
+    "feed_url": "https://yyokiyyoki.github.io/yyokiyyoki.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "ff"
     },
     "items": [
         {
-            "id": "https://yyokiyyoki.github.io/yyokiyyoki/pub/rrrrttt.html",
-            "url": "https://yyokiyyoki.github.io/yyokiyyoki/pub/rrrrttt.html",
+            "id": "https://yyokiyyoki.github.io/yyokiyyoki.github.io/rrrrttt.html",
+            "url": "https://yyokiyyoki.github.io/yyokiyyoki.github.io/rrrrttt.html",
             "title": "rrrrttt",
             "summary": "ffffggg;;s s ddddddddddddddd",
             "content_html": "<p> </p>\n<p>ffffggg;;s</p>\n<p>s</p>\n<p>ddddddddddddddd</p>",

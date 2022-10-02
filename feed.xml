@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>ff</title>
-    <link href="https://yyokiyyoki.github.io/yyokiyyoki/pub/feed.xml" rel="self" />
-    <link href="https://yyokiyyoki.github.io/yyokiyyoki/pub" />
+    <link href="https://yyokiyyoki.github.io/yyokiyyoki.github.io/feed.xml" rel="self" />
+    <link href="https://yyokiyyoki.github.io/yyokiyyoki.github.io" />
     <updated>2022-10-02T19:12:14-04:00</updated>
     <author>
         <name>ff</name>
     </author>
-    <id>https://yyokiyyoki.github.io/yyokiyyoki/pub</id>
+    <id>https://yyokiyyoki.github.io/yyokiyyoki.github.io</id>
 
     <entry>
         <title>rrrrttt</title>
         <author>
             <name>ff</name>
         </author>
-        <link href="https://yyokiyyoki.github.io/yyokiyyoki/pub/rrrrttt.html"/>
-        <id>https://yyokiyyoki.github.io/yyokiyyoki/pub/rrrrttt.html</id>
+        <link href="https://yyokiyyoki.github.io/yyokiyyoki.github.io/rrrrttt.html"/>
+        <id>https://yyokiyyoki.github.io/yyokiyyoki.github.io/rrrrttt.html</id>
 
         <updated>2022-10-02T19:12:14-04:00</updated>
             <summary>
